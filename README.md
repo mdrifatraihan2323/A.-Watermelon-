@@ -1,6 +1,6 @@
 #4A - Watermelon
 codeforces problem
-
+cout<<endl;
 #include<iostream>
 using namespace std;
 int main()
